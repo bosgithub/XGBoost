@@ -23,10 +23,10 @@ Supervised learning can take in numeric or categorical features, numerical featu
 
 ##### Supervised Learning: Regression:
 
-
+---
 
 #### What is XGBoost?
-XGBoost is an optimized gradient boosting machine library, which stands for extreme gradient boosting. The algorithm has these following features:
+XGBoost is an optimized gradient boosting machine learning library, it is fast and performs well. It stands for extreme gradient boosting. The algorithm runs at the back is gradient boosting decision tree algorithm and has these following features:
 
 1. Sparse Aware implementation with automatic handling of missing data values.
 2. Block Structure to support the parallelization of tree construction.
