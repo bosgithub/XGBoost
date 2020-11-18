@@ -8,12 +8,13 @@ Supervised learning can take in numeric or categorical features, numerical featu
 
 ---
 
-##### Supervised Learning: Classification
-1. Binary Classification: Whether a customer will churn given some promotion
-AOC curve
+#### Supervised Learning: Classification
+1. Binary Classification: Whether a customer will click on an ad given the ad content and historical data of the user 
+
+*Metrics of binary classification:* AOC curve
 
 2. Multiclass Classification: Classifying species of a given bird
-accuracy score and confusion matrix
+*Metrics of Multiclass classification:* Accuracy score and confusion matrix
 
 
 
