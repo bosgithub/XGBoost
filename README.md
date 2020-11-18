@@ -14,6 +14,7 @@ Supervised learning can take in numeric or categorical features, numerical featu
 *Metrics of binary classification:* AOC curve
 
 2. Multiclass Classification: Classifying species of a given bird
+
 *Metrics of Multiclass classification:* Accuracy score and confusion matrix
 
 
@@ -21,3 +22,25 @@ Supervised learning can take in numeric or categorical features, numerical featu
 ---
 
 ##### Supervised Learning: Regression:
+
+
+
+#### What is XGBoost?
+XGBoost is an optimized gradient boosting machine library, which stands for extreme gradient boosting. The algorithm has these following features:
+
+1. Sparse Aware implementation with automatic handling of missing data values.
+2. Block Structure to support the parallelization of tree construction.
+3. Continued Training so that you can further boost an already fitted model on new data.
+
+
+
+
+
+
+
+
+
+
+
+
+
